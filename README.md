@@ -12,9 +12,9 @@ Identity & Access: Applying my IT background (Active Directory/M365) to modern I
 
 🚀 Key Projects:
 
-Ciphers-Project: A C++ terminal tool demonstrating bitwise operations and data encryption.
+LinuxLunacySpring2026: A repository consisting of specialized challenges compiled for a Linux-based CTF, focusing on the Linux concepts Users, Permissions, and Processes. 
 
-CTF-Resources: Curated documentation and write-ups for our team's weekly labs.
+Grade-Calculator: A C++ program designed to calculate current and projected grades based on assignments, weighted categories, and specific course grading scales.
 
 ⚡ Technical Toolkit:
 
